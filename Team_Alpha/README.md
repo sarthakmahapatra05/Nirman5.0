@@ -7,7 +7,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue)](https://docker.com)
 [![Vercel](https://img.shields.io/badge/Vercel-Ready-black?logo=vercel)](https://vercel.com)
 
-A comprehensive healthcare platform built during **HackOdisha5.0** hackathon by **Team Alpha**. Symptocare empowers users with AI-driven symptom analysis, personalized health insights, and seamless doctor-patient connectivity.
+A comprehensive healthcare platform built during **Hackanation** hackathon by **Team Alpha**. Symptocare empowers users with AI-driven symptom analysis, personalized health insights, and seamless doctor-patient connectivity.
 
 ## 🌟 Features
 
@@ -190,11 +190,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **HackOdisha5.0** organizers for the amazing hackathon experience
+- **Hackanation** organizers for the amazing hackathon experienc
 - **Team Alpha** for the collaborative effort and dedication
 - **Supabase** for the excellent backend-as-a-service platform
 - **Next.js** community for the powerful React framework
 
 ---
 
-**Built with ❤️ by Team Alpha during HackOdisha5.0**
+**Built with ❤️ by Team Alpha during Hackanation**
